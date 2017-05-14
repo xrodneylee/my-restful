@@ -1,4 +1,4 @@
-package org.guanpu.my_restful;
+package org.guanpu.resources;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
